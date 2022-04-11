@@ -1,5 +1,5 @@
 git init
 git add -A
 git commit -m 'Added my project'
-git remote add github https://github.com/suba4598/Knowledge_Bucket.git
+git remote add github https://github.com/suba4598/Node-API.git
 git push -u -f origin master
